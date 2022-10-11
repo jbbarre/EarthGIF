@@ -1,1 +1,1 @@
-# animatedGIF
+# EarthGIF
