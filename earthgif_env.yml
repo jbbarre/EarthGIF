@@ -12,6 +12,7 @@ dependencies:
     - folium
     - branca
     - shapely
+    - ipykernel
     - pip:
       - pystac_client
       - geogif
