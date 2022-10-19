@@ -6,8 +6,8 @@ dependencies:
     - pip=22
     - geopandas
     - stackstac
-    - dask.distributed
     - dask
+    - distributed
     - planetary-computer
     - folium
     - branca
