@@ -8,11 +8,13 @@ dependencies:
     - stackstac
     - dask
     - distributed
+    - dask-image
     - planetary-computer
     - folium
     - branca
     - shapely
     - ipykernel
+    - bottleneck
     - pip:
       - pystac_client
       - geogif
